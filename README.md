@@ -46,11 +46,14 @@ cYJmyAugQbE:APA91bH_SfAJ-hJXrxsByOsf0A46hDlkMpXWgfTUI9cmKcPn4nu-ysjQ5DZsyxtxDvRg
 
 8 - Enviar POST 
 
-
+```
 POST /fcm/send HTTP/1.1
 Host: fcm.googleapis.com
 Authorization: key=AAAAGYw4hd8:APA91bG_vtOqwjhgXCbtwLltqUJuWSIF_H4ScHybfNhWoJ5JNxEnLKogPwyzfpHZidfn4H95jO88ViSaI7mgJLnm7K9fqrch8Ma-R-pbRaS1slspAum7UmBsa5ljbxJc1EUtDNWRt0CN
 Content-Type: application/json
+```
+
+
 
 ```json 
 
